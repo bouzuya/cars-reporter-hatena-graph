@@ -1,22 +1,23 @@
 {
-  "name": "uploader-hatena-graph",
+  "name": "cars-reporter-hatena-graph",
   "version": "0.0.0",
-  "description": "",
+  "description": "A cars reporter for Hatena::Graph.",
   "main": "index.js",
   "scripts": {
     "test": "mocha -R spec"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bouzuya/uploader-hatena-graph.git"
+    "url": "git://github.com/bouzuya/cars-reporter-hatena-graph.git"
   },
   "author": "bouzuya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bouzuya/uploader-hatena-graph/issues"
+    "url": "https://github.com/bouzuya/cars-reporter-hatena-graph/issues"
   },
-  "homepage": "https://github.com/bouzuya/uploader-hatena-graph",
+  "homepage": "https://github.com/bouzuya/cars-reporter-hatena-graph",
   "dependencies": {
+    "async": "~0.2.10",
     "hatena-graph-api": "0.0.1"
   }
 }
