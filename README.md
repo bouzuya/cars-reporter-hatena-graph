@@ -1,7 +1,7 @@
-cars-uploader-hatena-graph
+cars-reporter-hatena-graph
 ==============================================================================
 
-A [cars](https://github.com/bouzuya/cars) uploader for Hatena::Graph.
+A [cars](https://github.com/bouzuya/cars) reporter for Hatena::Graph.
 
 Configuration
 ------------------------------------------------------------------------------
